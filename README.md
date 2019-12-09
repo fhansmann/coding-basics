@@ -1,13 +1,12 @@
 ## Purpose
 
-This repository is a collection of completed code challenges relating to the Python Bible course on Udemy.
+This repository is a collection of completed basic code challenges relating to the "Python Bible" course on Udemy.
 
 ## Table of Contents
 
-- [Week 1 - String Manipulation](week-1)
-- Week 2 - Logic and Conditional Flow
-- Week 3 - Date Structures
-- Week 4 - Loops
+- [Module 1 - String Manipulation](module-1)
+- [Module 2 - Data Structures](module-2)
+- [Module 3 - Loops](module-3)
 
 ## Built With
 
