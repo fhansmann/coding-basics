@@ -1,6 +1,6 @@
 ## Purpose
 
-This file includes basic data structure
+This file includes basic data structures such as lists and tupels and method to manipulate them
 
 ## Table of Contents
 
