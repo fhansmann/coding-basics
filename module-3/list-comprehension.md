@@ -5,7 +5,7 @@ List comprehensions combine vairables, for loops and if statements to comprehend
 
 ## Table of Contents
 
-  - [Pig Latin](pig.py)
+  - [Pig Latin](pig-latin.py)
 
 ## Built With
 
