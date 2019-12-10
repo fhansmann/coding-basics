@@ -4,7 +4,7 @@
 
 original = input("Please enter a sentence: ").strip().lower()
 
-# split sentence into words
+#split sentence into words
 
 words = original.split()
 
@@ -32,6 +32,6 @@ for word in words:
 
 output = " ".join(new_words) 
 
-# output the final string
+#output the final string
 
 print(output)
