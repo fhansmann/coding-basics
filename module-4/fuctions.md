@@ -4,8 +4,8 @@ This folder includes basic user created functions with the goal to built a tic-t
 
 ## Table of Contents
 
-  - [Cinema](cinema.py)
-  - [Travis](travis.py)
+  - [Basic Functions](basic-functions.py)
+  - [Tic Tac Toe](game.py)
 
 ## Notes
 
