@@ -7,9 +7,8 @@ This folder includes basic code relating to objects / object oriented programmni
   - [...](basic-functions.py)
 
 ## Notes
-Object Oriented Programming (OOP)
 
-Intorduction:
+Object Oriented Programming (OOP) - Introduction:
 
 - Codified respresentation of real world objects
 - Class: Template for e.g. coins is a class
