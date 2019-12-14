@@ -4,8 +4,7 @@ This folder includes basic code relating to objects / object oriented programmni
 
 ## Table of Contents
 
-  - [Basic Functions](basic-functions.py)
-  - [Tic Tac Toe](game.py)
+  - [...](basic-functions.py)
 
 ## Notes
 
