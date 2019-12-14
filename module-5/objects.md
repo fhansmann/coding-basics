@@ -4,8 +4,6 @@ This folder includes basic code relating to objects / object oriented programmni
 
 ## Table of Contents
 
-  - [...](basic-functions.py)
-
 ## Notes
 
 Object Oriented Programming (OOP) - Introduction:
