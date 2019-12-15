@@ -19,8 +19,8 @@ Object Oriented Programming (OOP) - Introduction:
 OOP Principles:
 
 - Encapsulation: individual states can be encapsulated
-- Class iheritance
-- Polymorthism
+- Class inheritance: allows us to define a class that inherits all the methods and properties from another class
+- Polymorthism: same function name as in the parent, but has differnt shapes, forms, versions of itself; method has mulitples forms in a class
 
 Class constructors and class destructers:
 - Construcotrs help to setup states of objects/ classes
