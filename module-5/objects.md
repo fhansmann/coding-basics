@@ -18,7 +18,7 @@ Object Oriented Programming (OOP) - Introduction:
 
 Class constructors and class destructers
 - construcotrs help to setup object states
-- constructor: def__init__(self): #function with self as paramenter # self: specific instance of a class #used to construct classes states
+- constructor: def__init__(self): #function with self as paramenter #self: specific instance/ state of a class #used to construct classes states
 - destructors: def__del__(self)
 
 ## Built With
