@@ -10,14 +10,19 @@ Object Oriented Programming (OOP) - Introduction:
 
 - Codified respresentation of real world objects
 - Class: Template for e.g. coins is a class
+- Classes are made of variables (states) and functions (methods)
 - Objects are instances of a class
-- OOP principle of encapsulation: individuals states can be encapsulated (coin1, coin2, etc.)
-- Class are made of variables (states) and functions (methods)
-- Each varible type in python (e.g. string) is its own unique class (defined by states and methods)
+- Note that each varible type in python (e.g. string) is its own unique class (defined by states and methods)
 
-Class constructors and class destructers
-- construcotrs help to setup states of objects/ classes
-- constructor: def__init__(self): #function with self as paramenter #self: specific instance/ state of a class #used to construct classes states
+OOP Principles:
+
+- Encapsulation: individual states can be encapsulated
+- Class iheritance
+- Polymorthism
+
+Class constructors and class destructers:
+- Construcotrs help to setup states of objects/ classes
+- Constructor: def__init__(self): function with self as paramenter #self: specific instance of a class; used to construct classes states
 - destructors: def__del__(self)
 
 ## Built With
