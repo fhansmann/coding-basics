@@ -22,6 +22,7 @@ Functions
 
 
 Lambda (Anonymous) Functions
+(Anayonmous because of "()")
 
 Python code to illustrate cube of a number  
 Showing difference between def() and lambda()
