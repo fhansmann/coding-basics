@@ -27,6 +27,11 @@ Class constructors and class destructers:
 - Constructor: def__init__(self): function with self as paramenter #self: specific instance of a class; used to construct classes states
 - destructors: def__del__(self)
 
+Notes (Deutsch):
+- Objekt-Orientierung verknüpft Funktionen mit Objekten in Form von Methoden, und diese Methoden müssen wissen, worauf sie ausgeführt werden.
+
+- z.B. haben Objekte des Typs Apfel die Methode reifen, Objekte des Typs Menschen die Methode Zähne putzen,* usw. - eine Methode ist genauso wie eine Funktion eine abstrakte Beschreibung dessen was passieren muß
+
 ## Built With
 
 - The code challenge solutions use [Python](https://www.python.org/)
