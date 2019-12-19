@@ -6,6 +6,7 @@ It works for both strings and number and helps creating powerful lists.
 ## Table of Contents
 
   - [Pig Latin](pig-latin.py)
+  - [3 Mini Programs Putting User-Input into Lists](input-to-lists.py)
 
 ## Built With
 
