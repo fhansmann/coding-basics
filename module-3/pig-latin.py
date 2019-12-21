@@ -1,15 +1,12 @@
-# Program applying list comprehension
+# Program applying loops
 
 # get sentence from user
-
 original = input("Please enter a sentence: ").strip().lower()
 
 #split sentence into words
-
 words = original.split()
 
 # loop through words and convert to pig latin
-
 new_words = []
 
 for word in words:
@@ -29,9 +26,7 @@ for word in words:
         new_words.append(new_word)
                 
 # stick words back together
-
 output = " ".join(new_words) 
 
 #output the final string
-
 print(output)
