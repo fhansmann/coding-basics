@@ -6,7 +6,10 @@ This repository is a collection of completed basic code challenges relating to t
 
 - [Module 1 - String Manipulation](module-1)
 - [Module 2 - Data Structures](module-2)
-- [Module 3 - Loops](module-3)
+- [Module 3 - Loops and Basic List Comprehension](module-3)
+- [Module 4 - Functions](module-4)
+- [Module 5 - Objects](module-5)
+
 
 ## Built With
 
