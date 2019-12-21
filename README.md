@@ -1,6 +1,6 @@
 ## Purpose
 
-This repository is a collection of completed basic code challenges relating to the "Python Bible" course on Udemy.
+This repository is a collection of basic code challenges relating to the "Python Bible" course on Udemy.
 
 ## Table of Contents
 
