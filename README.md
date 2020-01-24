@@ -12,6 +12,5 @@ This repository is a collection of basic code challenges relating to the "Python
 
 
 ## Built With
-
 - The code challenge solutions use [Python](https://www.python.org/)
 - Python uses its built-in [unittest](https://docs.python.org/3.7/library/unittest.html#assert-methods)
