@@ -1,4 +1,5 @@
 # Turning a function into a callable class instance
+# Decorating a function with the decorator beign a class
 
 class Elephant:
     
