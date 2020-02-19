@@ -4,7 +4,7 @@ This repository is a collection of basic code challenges relating to the "Python
 
 ## Table of Contents
 
-- [Mini Programs: A collection of mini applications](mini-programs)
+- [Mini Programs](mini-programs)
 - [Module 1 - String Manipulation](module-1)
 - [Module 2 - Data Structures](module-2)
 - [Module 3 - Loops and Basic List Comprehension](module-3)
