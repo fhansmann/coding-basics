@@ -1,6 +1,7 @@
 ## Purpose
 
-This repository is a collection of basic code challenges relating to the "Python Bible" course on Udemy.
+Mini Programs: Collection of mini programs to better understand the key concepts and pratice coding daily
+Moldule 1-5: Collection of basic code challenges relating to the "Python Bible" course on Udemy
 
 ## Table of Contents
 
@@ -11,7 +12,5 @@ This repository is a collection of basic code challenges relating to the "Python
 - [Module 4 - Functions](module-4)
 - [Module 5 - Objects](module-5)
 
-
 ## Built With
 - The code challenge solutions use [Python](https://www.python.org/)
-- Python uses its built-in [unittest](https://docs.python.org/3.7/library/unittest.html#assert-methods)
