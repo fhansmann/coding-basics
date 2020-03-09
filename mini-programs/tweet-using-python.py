@@ -1,5 +1,5 @@
 from constants import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN,\
- ACCESS_TOKEN_SECRET
+ACCESS_TOKEN_SECRET
 
 from twitter import OAuth, Twitter
 
