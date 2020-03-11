@@ -1,4 +1,4 @@
-#simple example of a closure 
+#simple example of a closure in python
 
 def outer():
     x = 10
